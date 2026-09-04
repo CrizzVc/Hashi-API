@@ -1,2 +1,3 @@
-# repasos
-repositorio para practicar tecnologías y programar día a día
+# Hashi APi
+
+Version v1.0.0
